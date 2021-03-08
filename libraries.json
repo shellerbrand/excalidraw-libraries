@@ -364,16 +364,16 @@
     "date": "2021-03-01"
   },
   {
-    "name": "Canvases",
-    "description": "Templates for business model canvas, value proposition canvas, etc.",
+    "name": "Bubbles",
+    "description": "A collection of simple speech and thought bubbles.",
     "authors": [
       {
-        "name": "Stephan Hellerbrand",
-        "url": "https://www.hellerbit.com"
+        "name": "Oscar Capraro",
+        "url": "https://www.codegrepper.com/app/profile.php?id=44392"
       }
     ],
-    "source": "shellerbrand/canvases.excalidrawlib",
-    "preview": "shellerbrand/canvases.png",
-    "date": "2021-03-03"
+    "source": "ocapraro/bubbles.excalidrawlib",
+    "preview": "ocapraro/bubbles.png",
+    "date": "2021-03-04"
   }
 ]

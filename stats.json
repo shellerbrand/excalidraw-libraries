@@ -4,92 +4,96 @@
     "week": 0
   },
   "dbssticky-data-viz": {
-    "total": 2243,
-    "week": 161
+    "total": 2424,
+    "week": 227
   },
   "drwnio-drwnio": {
-    "total": 1850,
-    "week": 277
+    "total": 2107,
+    "week": 334
   },
   "drwnio-storytelling": {
-    "total": 814,
-    "week": 114
+    "total": 897,
+    "week": 111
   },
   "dwelle-hearts": {
-    "total": 411,
-    "week": 24
+    "total": 424,
+    "week": 21
   },
   "excacomp-mobile-kit": {
-    "total": 591,
-    "week": 48
+    "total": 643,
+    "week": 60
   },
   "excacomp-web-kit": {
-    "total": 1417,
-    "week": 94
+    "total": 1514,
+    "week": 127
   },
   "franky47-apple-devices-frames": {
-    "total": 584,
-    "week": 37
+    "total": 625,
+    "week": 49
   },
   "g-script-android": {
-    "total": 424,
-    "week": 23
+    "total": 449,
+    "week": 31
   },
   "g-script-charts": {
-    "total": 827,
-    "week": 55
+    "total": 879,
+    "week": 70
   },
   "g-script-forms": {
-    "total": 2634,
-    "week": 194
+    "total": 2799,
+    "week": 219
   },
   "g-script-medias": {
-    "total": 736,
-    "week": 40
+    "total": 764,
+    "week": 42
   },
   "h7y-dropdowns": {
-    "total": 1002,
-    "week": 61
-  },
-  "inwardmovement-information-architecture": {
-    "total": 1713,
-    "week": 189
-  },
-  "jakubpawlina-graphs": {
-    "total": 797,
-    "week": 65
-  },
-  "lipis-polygons": {
-    "total": 682,
-    "week": 45
-  },
-  "lipis-stars": {
-    "total": 466,
-    "week": 26
-  },
-  "maeddes-technology-logos": {
-    "total": 1552,
-    "week": 144
-  },
-  "marcottebear-raspberrypi-zero": {
-    "total": 175,
-    "week": 8
-  },
-  "morgemoensch-gadgets": {
-    "total": 624,
-    "week": 43
-  },
-  "newbyca-cryptocurrencies": {
-    "total": 185,
-    "week": 17
-  },
-  "pclainchard-it-logos": {
-    "total": 978,
+    "total": 1062,
     "week": 80
   },
+  "inwardmovement-information-architecture": {
+    "total": 1853,
+    "week": 185
+  },
+  "jakubpawlina-graphs": {
+    "total": 837,
+    "week": 54
+  },
+  "lipis-polygons": {
+    "total": 702,
+    "week": 28
+  },
+  "lipis-stars": {
+    "total": 481,
+    "week": 20
+  },
+  "maeddes-technology-logos": {
+    "total": 1661,
+    "week": 150
+  },
+  "marcottebear-raspberrypi-zero": {
+    "total": 189,
+    "week": 14
+  },
+  "morgemoensch-gadgets": {
+    "total": 670,
+    "week": 59
+  },
+  "newbyca-cryptocurrencies": {
+    "total": 197,
+    "week": 15
+  },
+  "ocapraro-bubbles": {
+    "total": 123,
+    "week": 123
+  },
+  "pclainchard-it-logos": {
+    "total": 1047,
+    "week": 85
+  },
   "revolunet-raspberrypi3": {
-    "total": 330,
-    "week": 11
+    "total": 345,
+    "week": 15
   },
   "shinkim-desktop-resolutions": {
     "total": 2,
@@ -100,27 +104,27 @@
     "week": 0
   },
   "shinkim-presentation-templates": {
-    "total": 443,
-    "week": 46
+    "total": 473,
+    "week": 44
   },
   "simalexan-wardley-maps-symbols": {
-    "total": 125,
-    "week": 125
+    "total": 367,
+    "week": 328
   },
   "slobodan-aws-serverless": {
-    "total": 906,
-    "week": 291
+    "total": 1078,
+    "week": 241
   },
   "spfr-lo-fi-wireframing-kit": {
-    "total": 1150,
-    "week": 243
+    "total": 1362,
+    "week": 272
   },
   "youritjang-software-architecture": {
-    "total": 5424,
-    "week": 602
+    "total": 5923,
+    "week": 654
   },
   "youritjang-stick-figures": {
-    "total": 2622,
-    "week": 305
+    "total": 2817,
+    "week": 269
   }
 }
